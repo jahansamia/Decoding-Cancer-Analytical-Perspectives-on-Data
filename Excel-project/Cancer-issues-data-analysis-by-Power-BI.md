@@ -1,7 +1,6 @@
 # Cancer Patient Dataset
 
-![image alt](https://github.com/jahansamia/Cancer-Issue/blob/8c29cd202fa7d8eee22e95c08db4bd38e5c19971/ieee-ojemb-advances-in-cancer-immunotherapy.jpg)
-
+![image alt](https://news.cuanschutz.edu/hubfs/NCI%20data.png)
 ### Description
 
 This dataset contains information about cancer patients, including their demographics, medical history, and treatment outcomes. It includes features such as age, gender, race/ethnicity, BMI, smoking status, family history of cancer, cancer type, stage, tumor size, treatment type, treatment response, survival months, recurrence, genetic marker, and hospital region.
@@ -42,7 +41,7 @@ This dataset can be used for various data analysis and machine learning tasks, i
 * Developing personalized treatment strategies based on individual patient profiles.
 
 # Excel Project
-![image alt](https://github.com/jahansamia/Cancer-Issue/blob/fefdbad97ba5bde3d6d3e1b5f11388c0afcea47c/powerbi-dasboard.png)
+![powerBI-dashboard](https://github.com/jahansamia/Decoding-Cancer-Analytical-Perspectives-on-Data/blob/70914e62a598eb08fd4eab3524d70f64cea97db9/Excel-project/Power-bi-pic.png)
 
 
 #### Summary of Cancer Issue Dashboard
