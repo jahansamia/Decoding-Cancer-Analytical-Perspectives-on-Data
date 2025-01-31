@@ -28,8 +28,7 @@ This dataset contains information about cancer patients, including their demogra
 
 
 ### Data Source
-
-The data was collected from a cancer registry and includes information on patients diagnosed with various types of cancer.
+![kaggle](https://www.kaggle.com/)
 
 ### Potential Uses
 
