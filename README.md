@@ -1,6 +1,6 @@
 # Decoding-Cancer-Analytical-Perspectives-on-Data
 
-![image alt](https://img.freepik.com/premium-vector/data-analysis-concept_118813-14215.jpg?ga=GA1.1.1804272107.1738302883&semt=ais_hybrid)
+![image alt](https://img.freepik.com/free-vector/process-optimization-concept-idea-business-improvement-development-company-data-analysis-effective-entrepreneurship-organization-isolated-flat-vector-illustration_613284-3337.jpg)
 
 Cancer remains a leading cause of death worldwide, posing a significant challenge to global health.  Analyzing cancer-related data is crucial for understanding disease patterns, identifying risk factors, and developing effective prevention and treatment strategies. This analysis explores to investigate .  The insights gained will contribute to improved cancer control efforts and ultimately, better patient outcomes.
 
