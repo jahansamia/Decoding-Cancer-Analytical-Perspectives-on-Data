@@ -37,9 +37,12 @@ Overall, the dashboard presents valuable cancer-related data but requires improv
 ![Cancer type by Gender](https://github.com/jahansamia/Decoding-Cancer-Analytical-Perspectives-on-Data/blob/d03e53d5041d72f65e8087a39a260f11ab2a4eeb/Pythone-image/Cancer-type-by-Gender.png)
 This Histogram visualizes the distribution of cancer types by gender using a histogram. It utilizes plotly.express to create the histogram, with cancer types on the x-axis and frequency on the y-axis. Bars are colored by gender and grouped for comparison. The visualization aids in understanding potential differences in cancer prevalence between genders.
 
+#### Age distribution by cancer type and stage
+![Age distribution by cancer type and stage](https://github.com/jahansamia/Decoding-Cancer-Analytical-Perspectives-on-Data/blob/7bdd637f38e66e3d494a1ceb4a49e4c83015fb90/Pythone-image/Age-distribution-by-cancer-type-and-stage.png)
+The box plots show how age is distributed for each cancer type. We can see the median age, quartiles, and potential outliers for each cancer. The color-coding within each box plot allows us to see if certain cancer stages tend to occur at specific age ranges within a particular cancer type. By looking at the plot as a whole, we might identify overall trends, such as whether certain cancers are more common in younger or older patients, and how cancer stage might relate to age.
 
-
-
+ #### Survival month vs cancer type
+ ![]()
  Potential Results:
 
 Here are some potential areas of analysis and expected results:
