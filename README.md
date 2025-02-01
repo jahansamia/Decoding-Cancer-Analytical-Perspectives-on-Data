@@ -46,16 +46,19 @@ The box plots show how age is distributed for each cancer type. We can see the m
  The overall shape of the histogram reveals the general distribution of survival months across all cancer types. You can see whether survival times are skewed towards shorter or longer durations.By observing the color-coded bars, you can compare the survival distributions for different cancer types. Some cancer types might have longer survival times compared to others.
 
  #### BMI Distribution by Smoking Status and Family History
- ![]()
+ ![BMI Distribution](https://github.com/jahansamia/Decoding-Cancer-Analytical-Perspectives-on-Data/blob/35a97518d4ed88a511302fc3f27739d09811b63b/Pythone-image/BMI-distribution-by-family-history.png)
 The data used for this visualization is likely a dataset containing information about cancer patients, including their smoking status, BMI (Body Mass Index), and family history of cancer.This categorical variable is displayed on the x-axis, with different categories and BMI variable is plotted on the y-axis, representing the body mass index of the patients. Family History used for color-code the violin plots, allowing for comparison between patients with and without a family history of cancer. 
  
  
- Potential Results:
+### Potential Results:
+#### Cancer Prevalence and Demographics:
+Analyzing the distribution of cancer types by gender, race/ethnicity, and age to identify potential disparities and risk factors.
+#### Treatment Effectiveness:
+Comparing treatment responses and survival months across different treatment types to assess their effectiveness.
+#### Tumor Characteristics and Outcomes:
+Investigating the relationship between tumor size, cancer stage, and survival to understand the impact of tumor characteristics on patient outcomes
 
-Here are some potential areas of analysis and expected results:
+## Conclusion:
 
-Cancer Prevalence and Demographics: Analyzing the distribution of cancer types by gender, race/ethnicity, and age to identify potential disparities and risk factors. For example, we might find that breast cancer is more prevalent in females, while lung cancer is more common in smokers.
+In conclusion, the visualizations provide a comprehensive overview of cancer patient data, highlighting patterns related to prevalence, demographics, treatment outcomes, tumor characteristics, and potential risk factors. By examining these visualizations together, you can gain a deeper understanding of the complex interplay between these factors and their impact on cancer patients.
 
-Treatment Effectiveness: Comparing treatment responses and survival months across different treatment types to assess their effectiveness. We might find that combination therapy leads to better outcomes for certain cancer types compared to surgery or radiation alone.
-
-Tumor Characteristics and Outcomes: Investigating the relationship between tumor size, cancer stage, and survival to understand the impact of tumor characteristics on patient outcomes. We might find that larger tumor sizes and advanced cancer stages are associated with shorter survival times.
