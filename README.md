@@ -42,7 +42,14 @@ This Histogram visualizes the distribution of cancer types by gender using a his
 The box plots show how age is distributed for each cancer type. We can see the median age, quartiles, and potential outliers for each cancer. The color-coding within each box plot allows us to see if certain cancer stages tend to occur at specific age ranges within a particular cancer type. By looking at the plot as a whole, we might identify overall trends, such as whether certain cancers are more common in younger or older patients, and how cancer stage might relate to age.
 
  #### Survival month vs cancer type
+ ![Survival month vs cancer type](https://github.com/jahansamia/Decoding-Cancer-Analytical-Perspectives-on-Data/blob/714df0dc774a77d7661a1494519490d4cc47b697/Pythone-image/Survival-month-vs-cancer-type.png)
+ The overall shape of the histogram reveals the general distribution of survival months across all cancer types. You can see whether survival times are skewed towards shorter or longer durations.By observing the color-coded bars, you can compare the survival distributions for different cancer types. Some cancer types might have longer survival times compared to others.
+
+ #### BMI Distribution by Smoking Status and Family History
  ![]()
+The data used for this visualization is likely a dataset containing information about cancer patients, including their smoking status, BMI (Body Mass Index), and family history of cancer.This categorical variable is displayed on the x-axis, with different categories and BMI variable is plotted on the y-axis, representing the body mass index of the patients. Family History used for color-code the violin plots, allowing for comparison between patients with and without a family history of cancer. 
+ 
+ 
  Potential Results:
 
 Here are some potential areas of analysis and expected results:
