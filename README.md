@@ -27,7 +27,7 @@ The primary objective is to explore and understand patterns and relationships wi
 ### Project-1
 ## Excel-PowerBI-project:
 #### * 
-![Excel-PowerBI-analysis]()
+![Excel-PowerBI-analysis](https://github.com/jahansamia/Decoding-Cancer-Analytical-Perspectives-on-Data/blob/165b1a3435f4d46636ff9fa6055566a246b5c9ec/Excel-project/Cancer-issues-data-analysis-by-Power-BI.md)
 ![Excel-PowerBI-Dashboard]()
 ![dashboard](https://github.com/jahansamia/Decoding-Cancer-Analytical-Perspectives-on-Data/blob/dd62c0483e37c561db304c735ed0ea97413763e1/Excel-project/Power-bi-pic.png)
 This cancer data dashboard summarizes key patient demographics and cancer characteristics. It displays a near-equal gender distribution with 8,756 males and 8,930 females out of 17,686 total patients.  The dashboard features visualizations for age distribution, race/ethnicity breakdown, and potentially survival rates. Filters are available for gender, age, cancer type, and other clinical factors to allow for interactive exploration of the data.
