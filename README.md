@@ -1,6 +1,6 @@
 # Decoding-Cancer-Analytical-Perspectives-on-Data
 
-![image alt](https://img.freepik.com/free-vector/process-optimization-concept-idea-business-improvement-development-company-data-analysis-effective-entrepreneurship-organization-isolated-flat-vector-illustration_613284-3337.jpg)
+![image alt](https://img.freepik.com/premium-vector/data-analysis-concept_118813-14215.jpg?ga=GA1.1.1804272107.1738302883&semt=ais_hybrid)
 
 Cancer remains a leading cause of death worldwide, posing a significant challenge to global health.  Analyzing cancer-related data is crucial for understanding disease patterns, identifying risk factors, and developing effective prevention and treatment strategies. This analysis explores to investigate .  The insights gained will contribute to improved cancer control efforts and ultimately, better patient outcomes.
 
@@ -25,10 +25,9 @@ The primary objective is to explore and understand patterns and relationships wi
 * ![Python](https://www.python.org/)
 
 ### Project-1
-## Excel-PowerBI-project:
-#### * 
+## Excel-PowerBI-project: 
 ![Excel-PowerBI-analysis](https://github.com/jahansamia/Decoding-Cancer-Analytical-Perspectives-on-Data/blob/165b1a3435f4d46636ff9fa6055566a246b5c9ec/Excel-project/Cancer-issues-data-analysis-by-Power-BI.md)
-![Excel-PowerBI-Dashboard]()
+![Excel-PowerBI-Dashboard](https://github.com/jahansamia/Decoding-Cancer-Analytical-Perspectives-on-Data/blob/b569c40c7e542d2fef64c81963be053732e0b0c9/Excel-project/excel-power-bi-new.pbix)
 ![dashboard](https://github.com/jahansamia/Decoding-Cancer-Analytical-Perspectives-on-Data/blob/dd62c0483e37c561db304c735ed0ea97413763e1/Excel-project/Power-bi-pic.png)
 This cancer data dashboard summarizes key patient demographics and cancer characteristics. It displays a near-equal gender distribution with 8,756 males and 8,930 females out of 17,686 total patients.  The dashboard features visualizations for age distribution, race/ethnicity breakdown, and potentially survival rates. Filters are available for gender, age, cancer type, and other clinical factors to allow for interactive exploration of the data.
 Overall, the dashboard presents valuable cancer-related data but requires improvements in clarity, labeling, and context to maximize its effectiveness in informing insights and driving action.
